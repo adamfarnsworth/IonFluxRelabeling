@@ -2,7 +2,6 @@ import math
 def answer(h,q):
     height = h
     fluxConverters = q
-    print(len(q))
     parentList = []*len(q)
     maxValue = 2**height -1
     currentValue = maxValue
