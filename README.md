@@ -24,7 +24,8 @@ The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect bi
 2  
 ### Inputs:
 
-(int) h = 5 (int list) q = [19, 14, 28]  
+(int) h = 5  
+(int list) q = [19, 14, 28]  
 
 ### Output:
 
