@@ -36,6 +36,6 @@ As you traverse down the tree, you either to left or right.
 Always just -1 from parent  
 #### Left traversals
 If a right traversal has never occured:  
-* child = floor(parent/2)
+* child = floor(parent/2)  
 If a right traversal HAS occured:
 * child = parent - 2^(tree height - current height)
